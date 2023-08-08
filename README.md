@@ -9,10 +9,10 @@ The gameplay is simple. Destroy the cookies by tapping on them before they fall 
 # UI
 
 **Main Menu**  
-![Main Menu](https://github.com/jjesuscastro/CookieClicker/blob/master/readme_files/menu.png?raw=true)  
+![Main Menu](https://github.com/jjesuscastro/Get-Baked/blob/main/Screenshots/Get%20Baked_002.png?raw=true)  
 
 **Game**  
-![Game](https://github.com/jjesuscastro/CookieClicker/blob/master/readme_files/game.png?raw=true)  
+![Game](https://github.com/jjesuscastro/Get-Baked/blob/main/Screenshots/Get%20Baked_004.png?raw=true)  
 
 **Game Over**  
-![Game](https://github.com/jjesuscastro/CookieClicker/blob/master/readme_files/gameover.png?raw=true)  
+![Game](https://github.com/jjesuscastro/Get-Baked/blob/main/Screenshots/Get%20Baked_001.png?raw=true)  
